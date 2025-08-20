@@ -1,5 +1,5 @@
 build:
   id: 20202020
   version: 20000.2.3
-  name: "Dev-GIT-Production-Build"
+  name: "Dev-GIT-Dev-Build"
   type: "GIT Development Build"
